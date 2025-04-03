@@ -10,3 +10,7 @@ s2 = Segment('s2', n2, n3)
 
 print(s1)
 print(s2)
+
+
+
+heeeeey
