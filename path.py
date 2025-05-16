@@ -60,5 +60,3 @@ def PlotPath(graph, path):
 
     plt.axis('equal')
     plt.show()
-
-
