@@ -1,0 +1,37 @@
+[Nodes]
+A 1 20
+B 8 17
+C 15 20
+D 18 15
+E 2 4
+F 6 5
+G 12 12
+H 10 3
+I 19 1
+J 13 5
+K 6 15
+L 4 10
+
+[Segments]
+A B
+A E
+A K
+B A
+B C
+B F
+B K
+B G
+C J
+C G
+D G
+D H
+D I
+E F
+F L
+G B
+G F
+G H
+I D
+I J
+J I
+K A
